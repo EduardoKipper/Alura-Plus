@@ -1,7 +1,5 @@
-.main_section {
-    background-image: url("/assets/index/Background.png");
-    background-repeat: no-repeat;
-    background-size: contain;
+.main__section {
+    background-image: url("../../assets/index/Background.png");
     align-items: center;
     text-align: center;
 }
