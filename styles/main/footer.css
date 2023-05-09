@@ -1,0 +1,27 @@
+.footer {
+    text-align: center;
+    margin: 10em 0 4em 0;
+}
+.footer__list{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    gap: 2em;
+    margin: 2em 0;
+}
+.footer__links{
+    color: var(--cor-6);
+    text-decoration: none;
+}
+.footer__links:hover{
+    color: var(--cor-8);
+    transition: 1s;
+}
+.footer__links:active{
+    color: var(--cor-3);
+    transition: 0.1s;
+}
+.footer__text{
+    color: var(--cor-4);
+    margin-bottom: 1em;
+}

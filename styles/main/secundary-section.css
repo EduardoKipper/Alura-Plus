@@ -1,0 +1,24 @@
+.secundary__section {
+    align-items: center;
+    margin: 0 10em;
+}
+.secundary__description {
+    padding: 2em;
+}
+.secundary__image {
+    width: 80%;
+}
+.image_notebook {
+    width: 100%;
+}
+.secundary__description__title {
+    font-weight: 700;
+    font-size: 3rem;
+    color: var(--cor-6);
+    margin-bottom: 0.1em;
+}
+.secundary__description__text {
+    font-weight: 400;
+    font-size: 1rem;
+    color: var(--cor-5);
+}

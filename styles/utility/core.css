@@ -1,0 +1,16 @@
+:root{
+    --cor-1: #00030C;
+    --cor-2: #040814;
+    --cor-3: #172d69;
+    --cor-4: #C0C0C0;
+    --cor-5: #F9F9F9;
+    --cor-6: #FFFFFF;
+    --cor-7: #167BF7;
+    --cor-8: #3a93ff;
+    --cor-9: #94bdef;
+    --font-1: 'Inter';
+}
+*{
+    margin: 0;
+    padding: 0;
+}

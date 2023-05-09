@@ -1,0 +1,23 @@
+/* utilidades */
+@import "./utility/core.css";
+/* página principal */
+@import "./main/main-section.css";
+@import "./main/secundary-section.css";
+@import "./main/buttons.css";
+@import "./main/devices.css";
+@import "./main/footer.css";
+
+body{
+    background-color: var(--cor-1);
+    color: var(--cor-6);
+    font-family: var(--font-1);
+    font-size: 1rem;
+    font-weight: 400;
+}
+.img:hover{
+    transition: 0.5s;
+    filter: drop-shadow(0.8em 0.8em 0.5em var(--cor-3));
+}
+.imgscale:hover{
+    scale: 1.2;
+}

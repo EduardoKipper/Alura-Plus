@@ -1,0 +1,35 @@
+.container__button {
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--cor-6);
+    text-decoration: none;
+    display: block;
+    margin-bottom: 1em;
+    border: 2px solid var(--cor-7);
+    background-color: var(--cor-7);
+}
+.container__button:hover {
+    background-color: var(--cor-8);
+    color: var(--cor-1);
+    transition: 0.5s;
+}
+.alura_plus_button {
+    background-color: transparent;
+    border: 2px solid var(--cor-6);
+}
+.alura_plus_button:hover{
+    background-color: var(--cor-6);
+}
+.container__button:active{
+    transition: 0.1s;
+    border: 2px solid var(--cor-3);
+    background-color: var(--cor-3);
+    color: var(--cor-6);
+    scale: 0.95;
+}
+.combo_button {
+    text-align: center;
+
+    display: inline-block;
+    margin-top: 1em;
+}
